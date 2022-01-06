@@ -1,7 +1,7 @@
 # merge-solo
 
-That
-is
-some
-great
+This
+is 
+some 
+cool
 text
