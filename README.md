@@ -1,7 +1,7 @@
 # merge-solo
 
-This 
-is 
+That
+is
 some
 cool
 text
